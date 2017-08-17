@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/BryanChen/Downloads/Split/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/classes-04c0fc9b2cf87ffb22633822a0fc3605f29ba2fe.jar" />
+    </item>
+    <item
+        jar="/Users/BryanChen/Downloads/Split/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/classes-75697954bc70cb2c59f678c0732b14a4a89f96e6.jar" />
+    </item>
+    <item
+        jar="/Users/BryanChen/Downloads/Split/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/classes-b689f7e1f0929c985afcc931fc17fd159c12bc2b.jar" />
+    </item>
+    <item
+        jar="/Users/BryanChen/Downloads/Split/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/classes-bf35800356b2de7b49ec1668265c3c9601b61956.jar" />
+    </item>
+    <item
+        jar="/Users/BryanChen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1-715f69e672439904be034914a0944fe65f29ca2e.jar" />
+    </item>
+    <item
+        jar="/Users/BryanChen/Downloads/Split/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/classes-78b464f4e90f346273657798fa79ab70ed05e41e.jar" />
+    </item>
+    <item
+        jar="/Users/BryanChen/Downloads/Split/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/classes-f162b3973157e83aa83b308d09846eddee52c344.jar" />
+    </item>
+    <item
+        jar="/Users/BryanChen/Downloads/Split/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/classes-0701243c39ef0c6ac055564d0c0692db3826b5a0.jar" />
+    </item>
+    <item
+        jar="/Users/BryanChen/Downloads/Split/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/classes-f7921e146a095672e4096c78dcbe69154e7eb4ba.jar" />
+    </item>
+    <item
+        jar="/Users/BryanChen/Downloads/Split/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/classes-3b68e06260d81abc63c8f958dfedd43f3c8c927f.jar" />
+    </item>
+    <item
+        jar="/Users/BryanChen/Downloads/Split/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/classes-1d60039f9daa48d5dbceab7702d859c8fadf8b4a.jar" />
+    </item>
+    <item
+        jar="/Users/BryanChen/Downloads/Split/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/classes-7645d296792bb812d9a0a2162ea755374b0d1c05.jar" />
+    </item>
+    <item
+        jar="/Users/BryanChen/Downloads/Split/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/BryanChen/Downloads/Split/app/build/intermediates/pre-dexed/debug/classes-f1b8da9d412a4e43e8bf75e9b1e613231af7a876.jar" />
+    </item>
+
+</items>
