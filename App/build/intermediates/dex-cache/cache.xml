@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/elanhamburger/.android/build-cache/ee4b43f29dd1a77ece64c7ff52ab47b42e2138da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/pre-dexed/debug/classes_4bf4777aa4368c6bd37f42e515da8f9414f766ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elanhamburger/.android/build-cache/dd7b603cfbc592d1b7f84e7b7ccdf2d6632ff371/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/pre-dexed/debug/classes_e03104bd32c9a4cf0a68d4c8820c2480df6a3538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elanhamburger/.android/build-cache/534a83e0437dac1825785a9b94a23917ce09548e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/pre-dexed/debug/classes_2fb1750f17d2da8c2b6604f00b5631f7e124c2a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elanhamburger/.android/build-cache/79f1baa5cf9961b1147adb86658931a024f4007e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/pre-dexed/debug/classes_8f815387aa902399e59c9b5fb21c07a227c4f93b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elanhamburger/.android/build-cache/88a24f24e9d897e17a590ca240957ca4711d6946/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/pre-dexed/debug/classes_35dcab3c94c90e0a9d9501fb2da1bf4351a615cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elanhamburger/.android/build-cache/f76b4745de358614f6a980a906f63c7d66d4a930/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/pre-dexed/debug/classes_be6a19a790f9d1cc3eb65dc63e318ededc1ced7a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cd9c10588e72f479be3e1828dc0d4375d856833c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elanhamburger/.android/build-cache/8ff47fb326755c071e100d23112a7d01183fafb1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/pre-dexed/debug/classes_56f8dc0f39bc18d3060ade29b105a7e81488e41b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elanhamburger/.android/build-cache/1f3640253593f70e353ca3725255c51324233ea3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/pre-dexed/debug/classes_daf2cf3918613168efae62bd4792da8038206237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elanhamburger/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_fef464ee26888a738e8c4df708d32615b66d61ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="419d1a6a94d39640098b96a786495390aac7ccbc">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a2c91ca008757722c087d9e0d580321cf68348fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elanhamburger/.android/build-cache/46bd6613129eb589ec137df0e9e9d0176166738b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/pre-dexed/debug/classes_3b929ac44fa8450d70a4a0e423f5f685b1d2b713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elanhamburger/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_bf425a0fb948de1debc1e2b10eb1a4b0c9707ba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/elanhamburger/.android/build-cache/a8b5ec4a1807f4431b1abe1e559112e5dcd7a769/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/elanhamburger/AndroidStudioProjects/Split/app/build/intermediates/pre-dexed/debug/classes_27151807a5651921a4a22d61e706087105c25b42.jar" />
+    </item>
+
+</items>
